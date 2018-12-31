@@ -20,15 +20,19 @@ There are also practical elements – you’ll have to complete the following pr
 4. Calibrate a VFO (Variable Frequency Oscillator)
 5. Build a Radio related electronic kit
 
-Assessments 1-4 will be done during the course, It’s assumed assessment 5 will be done either before the course starts or in the week between the 2 weekends.
+Assessments 1-4 will be done during the course. The PL259 and 3-pin Mains plug will be done under supervision.
 
-Although you are allowed to choose the kit you build, it must be something radio related.
+It’s assumed assessment 5 will be done either before the course starts or in the week between the 2 weekends. Although you are allowed to choose the kit you build, it must be something radio related. One popular choice is an AM receiver.
 
-We have included a full list of recommended kits on this site.
+## AM receiver
 
-Whilst the list is not exhaustive, it should give some idea.
+![AM receiver kit](images/AM_receiver_kit.jpg)
 
-The PL259 and 3-pin Mains plug will be done under supervision.
+This circuit is based around the MK484, and is very simple to build. Build time of around an hour.
+
+All components are included in the kit, including a professionally produced PCB. All you need to supply are the headphones!
+
+Cost for each kit is £7.00 each and they are available from the club.
 
 You will also need to build the Simple DC Circuit, that is described in the 'Intermediate Book', as this will help you to do the experiments, measurements etc that follow some of the presentations you’ll watch and take part in  during the weekend.
 
