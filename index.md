@@ -24,3 +24,9 @@ The club holds training courses covering all three levels throughout the year:
  * [Foundation](foundation-course.html)
  * [Intermediate](intermediate-course.html)
  * [Advanced](advanced-course.html)
+
+### Training dates
+
+ * The next Foundation course is to be confirmed
+ * The next Intermediate course will be held over three days: 23 February and 2-3 March
+ * The next Full revision class starts on 21 February
