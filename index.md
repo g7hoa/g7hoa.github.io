@@ -19,11 +19,11 @@ We meet on alternate Wednesday nights between 19:30 and 21:30.
 
 ## Training courses
 
-The club holds training courses covering all three levels throughout the year:
+The club holds training for all three levels throughout the year:
 
  * [Foundation](foundation-course.html)
  * [Intermediate](intermediate-course.html)
- * [Advanced](advanced-course.html)
+ * Full
 
 ### Training dates
 

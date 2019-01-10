@@ -1,3 +1,0 @@
-# Advanced Course
-
-Coming soon...
