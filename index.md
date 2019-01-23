@@ -9,8 +9,8 @@ For information, please contact [info@wararc.org.uk](mailto:info@wararc.org.uk).
 ## Club meetings
 
 We meet on alternate Wednesday nights between 19:30 and 21:30. 
- * The next club meeting is on 23 January 2019.
- * The next club net is on 16 January 2019 at 20:00 using the [GB3MR](https://www.ukrepeater.net/my_repeater.php?id=890) repeater
+ * The next club meeting is on 6 February 2019.
+ * The next club net is on 30 January 2019 at 20:00 using the [GB3MR](https://www.ukrepeater.net/my_repeater.php?id=890) repeater
 
 ### Location
 [Lostock Sports & Social Club](http://www.lostockclub.co.uk/), Works Lane, Northwich, Cheshire, CW9 7NW
