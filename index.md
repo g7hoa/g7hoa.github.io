@@ -9,7 +9,7 @@ For information, please contact [info@wararc.org.uk](mailto:info@wararc.org.uk).
 ## Club meetings
 
 We meet on alternate Wednesday nights between 19:30 and 21:30. 
- * The next club meeting is on 20 March 2019.
+ * The next club meeting is on 3 April 2019.
  * The next club net is on 27 March 2019 at 20:00 using the [GB3MR](https://www.ukrepeater.net/my_repeater.php?id=890) repeater
 
 ### Location
@@ -27,6 +27,6 @@ The club holds training for all three levels throughout the year:
 
 ### Training dates
 
- * The next Foundation course is 23-24 March
+ * The next Foundation course is TBC
  * The next Intermediate course is TBC
  * The next Full revision class starts on 21 February and runs for approximately 6 months
