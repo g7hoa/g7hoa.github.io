@@ -1,0 +1,12 @@
+<ul>
+    <li>The next club meeting is on <span id="date-club"></span>.</li>
+    <li>The next club net is on <span id="date-net"></span> at 20:00 using the <a href="https://www.ukrepeater.net/my_repeater.php?id=890" target="_blank">GB3MR</a> repeater.</li>
+</ul>
+
+<script>
+    $(function() {
+        var meeting = clubMeetingDates();
+        $("#date-club").html(meeting.club);
+        $("#date-net").html(meeting.net);
+    });
+</script>
