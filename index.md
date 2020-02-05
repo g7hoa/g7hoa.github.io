@@ -26,6 +26,6 @@ The club holds training for all three levels throughout the year:
 
 ### Training dates
 
- * The next Foundation course is TBC
- * The next Intermediate course is TBC
- * The next Full revision class starts on 21 February and runs for approximately 6 months
+ * The next Foundation course is 29 February and 1 March
+ * The next Intermediate course is 29 March and 4-5 April
+ * The next Full revision class is TBC
