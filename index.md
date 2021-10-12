@@ -8,7 +8,7 @@ For information, please contact [info@wararc.org.uk](mailto:info@wararc.org.uk).
 
 ## Club meetings
 
-We meet on alternate Wednesday nights between 19:30 and 21:30.
+We meet on alternate Tuesday nights between 19:30 and 21:30.
 {% include meetings.html %}
 
 ### Location
