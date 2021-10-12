@@ -4,7 +4,7 @@ function formatDate(d) {
 }
 
 function clubMeetingDates() {
-    var INITIAL_CLUB_NIGHT = new Date(2021, 10, 12);
+    var INITIAL_CLUB_NIGHT = new Date(2021, 10, 5);
     var ONE_WEEK = 6048e5;
     
     var d = new Date();
