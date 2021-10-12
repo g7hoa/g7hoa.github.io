@@ -45,14 +45,9 @@ The test consists of 26 Questions, it’s Multi-Choice and lasts for 55 Minutes,
 
 ## What if I fail?
 
-Unfortunately you’ll have to pay for a retest and re-sit another exam (quiz) either at the next course or some other time which is convenient to both us and you, or you can come back and re-sit the course. So long as you have your purple sheet (see below) you'll be OK you don’t have to do all the practical assessments again.
+Unfortunately you’ll have to pay for a retest and re-sit another exam (quiz) either at the next course or some other time which is convenient to both us and you, or you can come back and re-sit the course. 
 
 ## What if I miss one of the days?
 
 If you miss one of the days - you can (prior to arrangement) turn up during the next course.
 
-## The purple sheet
-
-At the start of the course you’ll be given a purple sheet, you should carry it with you at all times during the course - LOOK AFTER IT!!!!! - It tells us (and the RSGB) what you've done, and haven't done. It’s only when you’ve completed all the assessments on the purple sheet and they’ve been signed off can you sit the exam.
-
-Should you move out of the area, or you wish to follow up the course elsewhere, or have to re-sit the exam this purple sheet will allow the examiners elsewhere, to know where you are up to.
