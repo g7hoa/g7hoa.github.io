@@ -8,7 +8,8 @@ function clubMeetingDates() {
     var ONE_WEEK = 6048e5;
     
     var d = new Date();
-    d.setDate(d.getDate() + (3 + 7 - d.getDay()) % 7); // 3 = Wed
+    // updated to tue - lor, 2021 10 12
+    d.setDate(d.getDate() + (2 + 7 - d.getDay()) % 7); // 3 = Wed
     
     var thisWed = d;
     var nextWed = new Date(thisWed.getTime() + ONE_WEEK);
