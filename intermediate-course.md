@@ -40,6 +40,6 @@ The 'Simple DC Circuit' is available in kit form for £4.00 from the Club.
 
 The rest of the course is done over a weekend, in much the same way as the Foundation course is, except there are smaller groups! During that weekend, you will do theory backed up by some practical tests, and will have to demonstrate (and possibly fault-find) your kit.
 
-Like the Foundation course the exam (and we can call it that now!) is taken on-line on Sunday afternoon - it consists of a 1 hour 25 minute - 45 multi-choice questions. Again, like the Foundation your answers will appear a couple of seconds after submitting your answers. You’ll see immediately how you got on and RSGB HQ will verify them and send you your official pass certificate. Once you have that you’re on your way to that nice new 2E0 call sign!
+Like the Foundation course the exam (and we can call it that now!) is taken on-line on Sunday afternoon - it consists of a 1 hour 30 minute - 46 multi-choice questions. Again, like the Foundation your answers will appear a couple of seconds after submitting your answers. You’ll see immediately how you got on and RSGB HQ will verify them and send you your official pass certificate. Once you have that you’re on your way to that nice new 2E0 call sign!
 
 That only leaves the Advanced and you’re at the top of the ladder.
