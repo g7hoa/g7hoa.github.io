@@ -12,7 +12,7 @@ This book contains everything you will need for the course, it is priced at £6.
 
 The course builds on everything that you learnt in the Foundation course, however while there are no on-air practicals the course has a more hands on approach than the Foundation, as there are assessments carried out at regular periods during the weekend, in order to back up what you've learnt in the course.
 
-There are also practical elements – you’ll have to complete the following practical assessments (not necessarily in this order):
+There are also practical elements – prior to the pandemic these were mandatory, however that is no longer the case but we still feel they’re of benefit so we’ll still be inviting you to take part in them:
 
 1. Attach a PL-259 or a BNC to coax feeder and test
 2. Wire a 3-Pin Mains Plug
