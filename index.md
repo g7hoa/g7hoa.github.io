@@ -2,7 +2,9 @@
 
 This website is under construction.
 
-For information, please contact [info@wararc.org.uk](mailto:info@wararc.org.uk).
+For information, please contact [info@wararc.org.uk](mailto:info@wararc.org.uk) or come and visit us at the Blackpool rally on 24 April:
+
+![Come and visit our stand at the NARSA rally](images/norbreck_banner.gif)
 
 [QRZ page](https://www.qrz.com/db/g7hoa)
 
